@@ -1,6 +1,6 @@
 import Card from '@/components/Card/Card'
 import React from 'react'
-import products from '../../../data/data'
+import products from '@/data/data'
 
 export default function Products() {
 
